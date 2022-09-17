@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+// Problem Link: https://open.kattis.com/problems/sevenwonders
+
 public class sevenwonders {
 	
 	public static void main(String[] args) {
