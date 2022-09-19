@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Problem link: https://open.kattis.com/problems/shatteredcake
+
 public class shatteredcake {
 	
 	public static void main(String[] args) {
