@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Problem link: https://open.kattis.com/problems/parking2
+
 public class parking2 {
 	
 	public static void main(String[] args) {
