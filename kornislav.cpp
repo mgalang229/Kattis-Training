@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Problem link: https://open.kattis.com/problems/kornislav
+
 int main() {
     int a[4];
     for (int i = 0; i < 4; i++)
